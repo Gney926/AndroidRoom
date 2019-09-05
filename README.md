@@ -1,6 +1,6 @@
 # Android Room
 
-<img width="400px" height="700px" src="https://user-images.githubusercontent.com/53843178/64321338-50273b00-cffb-11e9-9455-9af7a527bd24.gif" />
+<img width="450px" height="750px" src="https://user-images.githubusercontent.com/53843178/64321992-a052cd00-cffc-11e9-9cb5-826411f46d33.gif" />
 <br/>
 <br/>
 
