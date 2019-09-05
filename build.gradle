@@ -1,0 +1,60 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext.kotlin_version = '1.3.50'
+    repositories {
+        google()
+        jcenter()
+        
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    // CardView
+    cardview_version = '1.0.0'
+
+    // RecyclerView
+    recyclerview_version = '1.0.0'
+
+    // Koin
+    koin_version = '2.0.1'
+
+    // RxAndroid
+    rxandroid_version = '2.1.1'
+
+    // RxJava
+    rxjava_version = '2.2.10'
+
+    // AAC
+    aac_version = '2.0.0'
+
+    // Logger
+    logger_version = '2.2.0'
+
+    // Room
+    room_version = '2.1.0'
+
+    // Paging
+    paging_version = '2.1.0'
+
+    // Material
+    material_version = '1.0.0'
+}
