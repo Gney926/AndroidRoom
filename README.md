@@ -258,8 +258,11 @@ ext {
 
 
 ## Reference
-- [RxJava/RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [CardView and RecyclerView](https://developer.android.com/jetpack/androidx/migrate)
+- [Koin](https://github.com/InsertKoinIO/koin)
+- [RxAndroid/RxJava](https://github.com/ReactiveX/RxAndroid)
+- [AAC](https://developer.android.com/jetpack/androidx/releases/lifecycle)
 - [Logger](https://github.com/orhanobut/logger)
 - [Room](https://developer.android.com/jetpack/androidx/releases/room#declaring_dependencies)
-
-- [Material](https://github.com/material-components/material-components-android)
+- [Paging](https://developer.android.com/jetpack/androidx/releases/paging#declaring_dependencies)
+- [Material](https://material.io/develop/android/docs/getting-started/)
