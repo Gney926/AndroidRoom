@@ -1,9 +1,17 @@
-# Room
+# Android Room
+
+<img width="400px" height="700px" src="https://user-images.githubusercontent.com/53843178/64321338-50273b00-cffb-11e9-9455-9af7a527bd24.gif" />
+<br/>
+<br/>
+
+
+## Room
 
 - [안드로이드 아키텍쳐 컴포넌트(Android Architecture Components)](https://developer.android.com/topic/libraries/architecture) 는 앱을 견고하고, 실험 가능하고, 유지 보수성이 뛰어나도록 만들어주는 라이브러리 모음으로, 이중 하나가 Room 이다.
 - Room 은 SQLite 의 추상 레이어를 제공하여 SQLite 의 객체를 매핑하는 역할을 하는데, 쉽게 말하면 SQLite 의 기능을 모두 사용할 수 있고, DB 로의 접근을 편하게 도와주는 라이브러리이다.
 <br/>
 <br/>
+
 
 
 ## Room Components 구성 요소
